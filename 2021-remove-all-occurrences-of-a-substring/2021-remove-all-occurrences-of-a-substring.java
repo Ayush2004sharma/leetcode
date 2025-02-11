@@ -1,33 +1,12 @@
-import java.util.Stack;
-
 class Solution {
     public String removeOccurrences(String s, String part) {
-        Stack<Character> stack = new Stack<>();
-        int n = part.length();
-
-        for (char c : s.toCharArray()) {
-            stack.push(c);
-            if (stack.size() >= n) {
-                boolean match = true;
-                for (int i = 0; i < n; i++) {
-                    if (stack.get(stack.size() - n + i) != part.charAt(i)) {
-                        match = false;
-                        break;
-                    }
-                }
-                if (match) {
-                    for (int i = 0; i < n; i++) {
-                        stack.pop();
-                    }
-                }
-            }
+        int index= s.indexOf(part);
+        int n= part.length();
+        if(index==-1){
+            return s;
         }
-
-        StringBuilder result = new StringBuilder();
-        for (char c : stack) {
-            result.append(c);
+        else{
+            return removeOccurrences((s.substring(0,index)+s.substring(index+n)),part);
         }
-
-        return result.toString();
     }
 }
