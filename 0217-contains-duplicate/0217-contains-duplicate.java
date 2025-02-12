@@ -2,15 +2,16 @@ import java.util.Hashtable;
 
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        Hashtable<Integer, Integer> l = new Hashtable<>();
-        for(int num : nums){
-            l.put(num, l.getOrDefault(num, 0) + 1);
+        int m=nums.length;
+        HashSet<Integer> l = new HashSet<>();
+        for(int num:nums){
+            l.add(num);
         }
-        for(int num: l.keySet()){
-        if (l.get(num) > 1 ) {
-                return true;
+        if(m!=l.size()){
+            return true;
+        }
+          return false;
             }
-    }
-    return false;
-}
+  
+
 }
