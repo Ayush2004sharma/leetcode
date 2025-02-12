@@ -1,19 +1,21 @@
+import java.util.*;
+
 class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
-        List<Integer> l = new ArrayList<>();
+        Map<Integer, Integer> map = new HashMap<>();
+        List<Integer> result = new ArrayList<>();
+
         for (int num : nums1) {
-            l.add(num);
+            map.put(num, map.getOrDefault(num, 0) + 1);
         }
-        List<Integer> p = new ArrayList<>();
-        for (int i = 0; i < nums2.length; i++) {
-            if (l.contains(nums2[i])) {
-                p.add(nums2[i]);
-                l.remove(Integer.valueOf(nums2[i]));
+
+        for (int num : nums2) {
+            if (map.getOrDefault(num, 0) > 0) {
+                result.add(num);
+                map.put(num, map.get(num) - 1);
             }
-
         }
 
-        int[] array = p.stream().mapToInt(Integer::intValue).toArray();
-        return array;
+        return result.stream().mapToInt(i -> i).toArray();
     }
 }
