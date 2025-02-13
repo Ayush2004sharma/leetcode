@@ -1,26 +1,23 @@
-import java.util.*;
-
 class Solution {
     public int thirdMax(int[] nums) {
-        Integer first = null, second = null, third = null;
-        
-        for (int num : nums) {
-            if (Objects.equals(num, first) || Objects.equals(num, second) || Objects.equals(num, third)) {
-                continue; // Skip duplicates
-            }
+      int n=nums.length;
+      int max=0;
+      TreeSet<Integer> s = new TreeSet<>(); 
+       for(int i =0;i<n;i++){
+        s.add(nums[i]);
+       }
+       Integer[] arr = s.toArray(new Integer[0]);
 
-            if (first == null || num > first) {
-                third = second;
-                second = first;
-                first = num;
-            } else if (second == null || num > second) {
-                third = second;
-                second = num;
-            } else if (third == null || num > third) {
-                third = num;
-            }
-        }
-        
-        return (third == null) ? first : third; // Return largest if less than 3 unique numbers
+if(arr.length>=3){
+    max=arr[arr.length-3];
+}
+
+else if(arr.length==2){
+     max=arr[arr.length-1];
+}
+ else if(arr.length==1){
+     max=arr[arr.length-1];
+}     
+       return max;
     }
 }
