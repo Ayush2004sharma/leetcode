@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ayush2004sharma/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush2004sharma/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Ayush2004sharma/leetcode/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ayush2004sharma/leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Ayush2004sharma/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush2004sharma/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ayush2004sharma/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayush2004sharma/leetcode/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ayush2004sharma/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ayush2004sharma/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Data Stream
 |  |
 | ------- |
