@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Ayush2004sharma/leetcode/tree/master/0344-reverse-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ayush2004sharma/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Ayush2004sharma/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ayush2004sharma/leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Ayush2004sharma/leetcode/tree/master/0042-trapping-rain-water) |
+| [0344-reverse-string](https://github.com/Ayush2004sharma/leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sliding Window
 |  |
