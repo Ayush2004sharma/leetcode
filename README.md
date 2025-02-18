@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Ayush2004sharma/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ayush2004sharma/leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Ayush2004sharma/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Ayush2004sharma/leetcode/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush2004sharma/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Ayush2004sharma/leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ayush2004sharma/leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Ayush2004sharma/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ayush2004sharma/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Ayush2004sharma/leetcode/tree/master/0342-power-of-four) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ayush2004sharma/leetcode/tree/master/0078-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Ayush2004sharma/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ayush2004sharma/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Counting
