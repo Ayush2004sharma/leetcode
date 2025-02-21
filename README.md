@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ayush2004sharma/leetcode/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/Ayush2004sharma/leetcode/tree/master/0344-reverse-string) |
 | [1160-letter-tile-possibilities](https://github.com/Ayush2004sharma/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ayush2004sharma/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -232,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ayush2004sharma/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ayush2004sharma/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
