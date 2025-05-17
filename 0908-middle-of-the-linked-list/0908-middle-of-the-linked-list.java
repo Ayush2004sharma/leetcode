@@ -9,31 +9,33 @@
  * }
  */
 class Solution {
-    public ListNode middleNode(ListNode head) {
+    public static int size(ListNode head ){
+        if(head==null){
+            return 0;
+        }
         int count=0;
         ListNode temp= head;
-        while(temp!=null){
+        while(temp!=null &&temp.next!=null){
             count++;
-              temp =temp.next;
+            temp=temp.next;
         }
-        count=count-1;
-        if(count%2==0){
-            int i  =0;
-            count=count/2;
-            while(i<count){
-                head=head.next;
-                i++;
-            }
+return count;
+    } 
+    public static ListNode middleNode(ListNode head) {
+        int s = size(head);
+        if(s%2==0){
+            s=(s/2);
         }
         else{
-           count= count/2;
-              int i  =0;
-            while(i<=count){
-                head=head.next;
-                i++;
-            }
+            s=(s/2)+1;
+        }
+
+        int count=0;
+        ListNode temp = head;
+        while(count!=s&& temp.next!=null){
+            head=head.next;
+            count++;
         }
         return head;
-
     }
 }
