@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ayush2004sharma/leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ayush2004sharma/leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Ayush2004sharma/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Ayush2004sharma/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Ayush2004sharma/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Ayush2004sharma/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayush2004sharma/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Ayush2004sharma/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Ayush2004sharma/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ayush2004sharma/leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/Ayush2004sharma/leetcode/tree/master/0658-find-k-closest-elements) |
