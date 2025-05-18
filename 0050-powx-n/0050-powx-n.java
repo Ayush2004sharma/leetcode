@@ -1,20 +1,17 @@
-public class Solution {
+class Solution {
     public double myPow(double x, int n) {
-        if (n == 0) return 1;  // Base case: x^0 = 1
-        if (n < 0) {
-            x = 1 / x;  // If n is negative, invert x and make n positive
-            n = -n;
+        long N = n; // convert to long to handle -2^31 safely
+        if (N < 0) {
+            x = 1 / x;
+            N = -N;
         }
-        return fastPow(x, n);
+        return pow(x, N);
     }
 
-    private double fastPow(double x, int n) {
-        if (n == 0) return 1;  // Base case: x^0 = 1
-        double half = fastPow(x, n / 2);
-        if (n % 2 == 0) {
-            return half * half;  // If n is even, result is half^2
-        } else {
-            return half * half * x;  // If n is odd, result is half^2 * x
-        }
+    private double pow(double x, long n) {
+        if (n == 0) return 1;
+        double half = pow(x, n / 2);
+        if (n % 2 == 0) return half * half;
+        else return half * half * x;
     }
 }
