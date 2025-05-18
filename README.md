@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayush2004sharma/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Ayush2004sharma/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/Ayush2004sharma/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Ayush2004sharma/leetcode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Ayush2004sharma/leetcode/tree/master/0131-palindrome-partitioning) |
 | [1160-letter-tile-possibilities](https://github.com/Ayush2004sharma/leetcode/tree/master/1160-letter-tile-possibilities) |
