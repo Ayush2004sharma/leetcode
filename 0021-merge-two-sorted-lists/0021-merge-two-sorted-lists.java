@@ -1,7 +1,7 @@
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        ListNode dummy = new ListNode(-1); // Dummy head to simplify logic
-        ListNode current = dummy; // Pointer to build the merged list
+        ListNode dummy = new ListNode(-1);
+        ListNode current = dummy;
 
         while (list1 != null && list2 != null) {
             if (list1.val <= list2.val) {
@@ -14,10 +14,10 @@ class Solution {
             current = current.next;
         }
 
-        // If any list is remaining, append it directly
+     
         if (list1 != null) current.next = list1;
         if (list2 != null) current.next = list2;
 
-        return dummy.next; // Return merged list (excluding dummy)
+        return dummy.next; 
     }
 }
