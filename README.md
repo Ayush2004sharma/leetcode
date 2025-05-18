@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ayush2004sharma/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Ayush2004sharma/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Ayush2004sharma/leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Ayush2004sharma/leetcode/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Ayush2004sharma/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ayush2004sharma/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Ayush2004sharma/leetcode/tree/master/0231-power-of-two) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Ayush2004sharma/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ayush2004sharma/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Ayush2004sharma/leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Ayush2004sharma/leetcode/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/Ayush2004sharma/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Ayush2004sharma/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Ayush2004sharma/leetcode/tree/master/0231-power-of-two) |
