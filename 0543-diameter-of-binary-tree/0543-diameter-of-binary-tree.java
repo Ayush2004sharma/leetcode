@@ -12,10 +12,10 @@ class Solution {
         int leftHeight = height(node.left);
         int rightHeight = height(node.right);
 
-        // Update diameter at this node
+      
         max = Math.max(max, leftHeight + rightHeight);
 
-        // Return height
+   
         return 1 + Math.max(leftHeight, rightHeight);
     }
 }
