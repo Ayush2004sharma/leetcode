@@ -2,20 +2,20 @@ class Solution {
     private int max = Integer.MIN_VALUE;
 
     public int maxPathSum(TreeNode root) {
-        helper(root);
+        maxGain(root);
         return max;
     }
 
-    private int helper(TreeNode node) {
+    private int maxGain(TreeNode node) {
         if (node == null) return 0;
 
-        int left = Math.max(0, helper(node.left));
-        int right = Math.max(0, helper(node.right));
+        int leftGain = Math.max(0, maxGain(node.left));
+        int rightGain = Math.max(0, maxGain(node.right));
 
-        // max path passing through this node
-        max = Math.max(max, left + right + node.val);
+        int currentPathSum = node.val + leftGain + rightGain;
 
-        // return max path that can be extended to parent
-        return node.val + Math.max(left, right);
+        max = Math.max(max, currentPathSum);
+
+        return node.val + Math.max(leftGain, rightGain);
     }
 }
