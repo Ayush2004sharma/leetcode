@@ -1,38 +1,28 @@
 class Solution {
-    public List<List<Integer>> levelOrder(TreeNode root) {
-        List<List<Integer>> result = new ArrayList<>();
+    public List<Integer> rightSideView(TreeNode root) {
+        List<Integer> result = new ArrayList<>();
         if (root == null) return result;
 
-        Queue<TreeNode> q = new LinkedList<>();
-        q.offer(root);
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root);
 
-        while (!q.isEmpty()) {
-            int size = q.size();
-            List<Integer> level = new ArrayList<>();
+        while (!queue.isEmpty()) {
+            int size = queue.size();
 
+            // Iterate through one level
             for (int i = 0; i < size; i++) {
-                TreeNode curr = q.poll();
-                level.add(curr.val);
+                TreeNode curr = queue.poll();
 
-                if (curr.left != null) q.offer(curr.left);
-                if (curr.right != null) q.offer(curr.right);
+                // The rightmost element of this level
+                if (i == size - 1) {
+                    result.add(curr.val);
+                }
+
+                if (curr.left != null) queue.offer(curr.left);
+                if (curr.right != null) queue.offer(curr.right);
             }
-
-            result.add(level);
         }
 
         return result;
-    }
-
-    public List<Integer> rightSideView(TreeNode root) {
-        List<Integer> ans = new ArrayList<>();
-        if (root == null) return ans;
-
-        List<List<Integer>> levels = levelOrder(root);
-        for (List<Integer> level : levels) {
-            ans.add(level.get(level.size() - 1)); // rightmost element
-        }
-
-        return ans;
     }
 }
