@@ -9,13 +9,11 @@ class Solution {
     private int height(TreeNode node) {
         if (node == null) return 0;
 
-        int leftHeight = height(node.left);
-        int rightHeight = height(node.right);
+        int lh = height(node.left);
+        int rh = height(node.right);
 
-      
-        max = Math.max(max, leftHeight + rightHeight);
+        max = Math.max(max, lh + rh); 
 
-   
-        return 1 + Math.max(leftHeight, rightHeight);
+        return 1 + Math.max(lh, rh);  // Return height
     }
 }
