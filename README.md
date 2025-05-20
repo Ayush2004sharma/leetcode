@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ayush2004sharma/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/Ayush2004sharma/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3483-alternating-groups-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/3483-alternating-groups-ii) |
+| [3639-zero-array-transformation-i](https://github.com/Ayush2004sharma/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Ayush2004sharma/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Ayush2004sharma/leetcode/tree/master/0724-find-pivot-index) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ayush2004sharma/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/Ayush2004sharma/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [3639-zero-array-transformation-i](https://github.com/Ayush2004sharma/leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Design
 |  |
 | ------- |
