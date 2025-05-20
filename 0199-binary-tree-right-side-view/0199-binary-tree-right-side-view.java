@@ -1,28 +1,42 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
-        List<Integer> result = new ArrayList<>();
-        if (root == null) return result;
+        Queue<TreeNode> q = new LinkedList<>();
 
-        Queue<TreeNode> queue = new LinkedList<>();
-        queue.offer(root);
-
-        while (!queue.isEmpty()) {
-            int size = queue.size();
-
-            // Iterate through one level
-            for (int i = 0; i < size; i++) {
-                TreeNode curr = queue.poll();
-
-                // The rightmost element of this level
-                if (i == size - 1) {
-                    result.add(curr.val);
-                }
-
-                if (curr.left != null) queue.offer(curr.left);
-                if (curr.right != null) queue.offer(curr.right);
-            }
+ List<Integer> ans = new ArrayList<>();
+        if(root==null){
+            return ans;
         }
-
-        return result;
+        q.offer(root);
+        while(!q.isEmpty()){
+            int size= q.size();
+            List<Integer>sub= new ArrayList<>();
+            for(int i =0;i<size;i++){
+                if(q.peek().left!=null){
+                    q.offer(q.peek().left);
+                }                
+                if(q.peek().right!=null){
+                    q.offer(q.peek().right);
+                }
+                sub.add(q.poll().val);
+            }
+            ans.add(sub.get(sub.size()-1));
+        }
+        return ans;
     }
+    
 }
