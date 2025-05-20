@@ -1,21 +1,15 @@
-class Solution {
+public class Solution {
     public int findDuplicate(int[] nums) {
-        int slow = nums[0];
-        int fast = nums[0];
-        
-        // Phase 1: Detect if there is a cycle
-        do {
-            slow = nums[slow];
-            fast = nums[nums[fast]];
-        } while (slow != fast);
-        
-        // Phase 2: Find the start of the cycle
-        slow = nums[0];
-        while (slow != fast) {
-            slow = nums[slow];
-            fast = nums[fast];
+        int left = 1, right = nums.length - 1;
+        while (left < right) {
+            int mid = left + (right - left) / 2;
+            int count = 0;
+            for (int num : nums) {
+                if (num <= mid) count++;
+            }
+            if (count > mid) right = mid;
+            else left = mid + 1;
         }
-        
-        return slow;
+        return left;
     }
 }
