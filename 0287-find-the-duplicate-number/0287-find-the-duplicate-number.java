@@ -1,14 +1,21 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-           HashMap<Integer, Integer> freqMap = new HashMap<>();
-        boolean hasDuplicate = false;
-int ans=0;
-        for (int num : nums) {
-            freqMap.put(num, freqMap.getOrDefault(num, 0) + 1);
-            if (freqMap.get(num) > 1) {
-               ans = num;
-            }
+        int slow = nums[0];
+        int fast = nums[0];
+        
+        // Phase 1: Detect if there is a cycle
+        do {
+            slow = nums[slow];
+            fast = nums[nums[fast]];
+        } while (slow != fast);
+        
+        // Phase 2: Find the start of the cycle
+        slow = nums[0];
+        while (slow != fast) {
+            slow = nums[slow];
+            fast = nums[fast];
         }
-        return ans;
+        
+        return slow;
     }
 }
