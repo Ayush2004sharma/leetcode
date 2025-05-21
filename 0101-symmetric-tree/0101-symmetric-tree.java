@@ -15,15 +15,12 @@
  */
 class Solution {
     public boolean isSymmetric(TreeNode root) {
-        if(root==null)return true;
         return func(root.left,root.right);
     }
-    public boolean func(TreeNode q,TreeNode p){
-        
-        if(q==null&&p==null)return true;
-        if(q==null||p==null)return false;
+    boolean func(TreeNode p,TreeNode q){
+        if(p==null&&q==null)return true;
+        if(p==null||q==null)return false;
         if(p.val!=q.val)return false;
-
-        return func(q.right,p.left)&&func(q.left,p.right);
+        return func(p.left,q.right)&&func(p.right,q.left);
     }
 }
