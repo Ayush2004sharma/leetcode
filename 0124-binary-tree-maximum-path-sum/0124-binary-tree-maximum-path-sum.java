@@ -14,17 +14,17 @@
  * }
  */
 class Solution {
-    private int sum=Integer.MIN_VALUE;
+    private int max=Integer.MIN_VALUE;
     public int maxPathSum(TreeNode root) {
-      func(root);
-      return sum;
+        func(root);
+        return max;
     }
-    public int func(TreeNode root){
-          if(root==null)return 0;
-        int lh = Math.max(0,func(root.left));
-        int rh = Math.max(0,func(root.right));
-        int curr=root.val+lh+rh;
-        sum=Math.max(sum,curr);
+    int func(TreeNode root){
+        if(root==null)return 0;
+        int lh=Math.max(0,func(root.left));
+        int rh=Math.max(0,func(root.right));
+        int curr= root.val +lh+rh;
+        max = Math.max(max,curr);
         return root.val+Math.max(lh,rh);
     }
 }
