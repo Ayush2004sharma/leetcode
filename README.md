@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ayush2004sharma/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ayush2004sharma/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush2004sharma/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Ayush2004sharma/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Ayush2004sharma/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Ayush2004sharma/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ayush2004sharma/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush2004sharma/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Ayush2004sharma/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ayush2004sharma/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayush2004sharma/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Ayush2004sharma/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Ayush2004sharma/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Ayush2004sharma/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Ayush2004sharma/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayush2004sharma/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ayush2004sharma/leetcode/tree/master/0747-min-cost-climbing-stairs) |
