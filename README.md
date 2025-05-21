@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Ayush2004sharma/leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayush2004sharma/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Ayush2004sharma/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0518-coin-change-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayush2004sharma/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Ayush2004sharma/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/Ayush2004sharma/leetcode/tree/master/0724-find-pivot-index) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Ayush2004sharma/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Ayush2004sharma/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayush2004sharma/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0518-coin-change-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ayush2004sharma/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Ayush2004sharma/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/Ayush2004sharma/leetcode/tree/master/1013-fibonacci-number) |
