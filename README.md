@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ayush2004sharma/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ayush2004sharma/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayush2004sharma/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Ayush2004sharma/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Ayush2004sharma/leetcode/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayush2004sharma/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ayush2004sharma/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Ayush2004sharma/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayush2004sharma/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Ayush2004sharma/leetcode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Ayush2004sharma/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ayush2004sharma/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush2004sharma/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Ayush2004sharma/leetcode/tree/master/0344-reverse-string) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Ayush2004sharma/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Ayush2004sharma/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Ayush2004sharma/leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Ayush2004sharma/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Ayush2004sharma/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ayush2004sharma/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Ayush2004sharma/leetcode/tree/master/1013-fibonacci-number) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayush2004sharma/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Ayush2004sharma/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Ayush2004sharma/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Ayush2004sharma/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ayush2004sharma/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ayush2004sharma/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ayush2004sharma/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
