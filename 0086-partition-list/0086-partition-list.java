@@ -1,26 +1,26 @@
 class Solution {
     public ListNode partition(ListNode head, int x) {
-        if (head == null) return null;
-
-        ListNode beforeHead = new ListNode(0); 
-        ListNode before = beforeHead;
-        ListNode afterHead = new ListNode(0);  
-        ListNode after = afterHead;
-
-        while (head != null) {
-            if (head.val < x) {
-                before.next = head;
-                before = before.next;
+        ListNode pre = new ListNode(0);
+        ListNode preHead = pre;
+        ListNode post = new ListNode(0);
+        ListNode postHead = post;
+        
+        ListNode curr = head;
+        
+        while (curr != null) {
+            if (curr.val < x) {
+                pre.next = curr;
+                pre = pre.next;
             } else {
-                after.next = head;
-                after = after.next;
+                post.next = curr;
+                post = post.next;
             }
-            head = head.next;
+            curr = curr.next; // ✅ You missed this!
         }
 
-        after.next = null;  
-        before.next = afterHead.next;  
-
-        return beforeHead.next;  
+        post.next = null; // Important to avoid cycle
+        pre.next = postHead.next;
+        
+        return preHead.next;
     }
 }
