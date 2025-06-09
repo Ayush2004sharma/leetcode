@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Ayush2004sharma/leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ayush2004sharma/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Ayush2004sharma/leetcode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Ayush2004sharma/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Ayush2004sharma/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ayush2004sharma/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayush2004sharma/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayush2004sharma/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Ayush2004sharma/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/Ayush2004sharma/leetcode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Ayush2004sharma/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ayush2004sharma/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ayush2004sharma/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Ayush2004sharma/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
