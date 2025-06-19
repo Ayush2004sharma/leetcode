@@ -1,22 +1,19 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int max = nums[0];
-
-        for (int i = 0; i < nums.length; i++) {
-            if (max < nums[i]) {
-                max = nums[i];
+        HashSet<Integer>h= new HashSet<>();
+        for(int i :nums){
+            h.add(i);
+        }
+        int ans=0;
+        int temp =0;
+        int n = nums.length;
+        for(int i=0;i<=n;i++){
+            if(!h.contains(i)){
+                ans= temp;
+                break;
             }
+            temp++;
         }
-      HashSet<Integer> set = new HashSet<>();
-
-        for (int num : nums) {
-            set.add(num);
-        }
-        for (int i = 0; i < max; i++) {
-            if (!set.contains(i)) {
-                return i;
-            }
-        }
-        return max+1;
+        return ans ;
     }
 }
