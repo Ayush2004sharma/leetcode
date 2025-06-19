@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Ayush2004sharma/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Ayush2004sharma/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Ayush2004sharma/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/Ayush2004sharma/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Ayush2004sharma/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/Ayush2004sharma/leetcode/tree/master/0414-third-maximum-number) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayush2004sharma/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Ayush2004sharma/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ayush2004sharma/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ayush2004sharma/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayush2004sharma/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/Ayush2004sharma/leetcode/tree/master/0768-partition-labels) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Ayush2004sharma/leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Ayush2004sharma/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ayush2004sharma/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ayush2004sharma/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Ayush2004sharma/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/Ayush2004sharma/leetcode/tree/master/0414-third-maximum-number) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Ayush2004sharma/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush2004sharma/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Ayush2004sharma/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/Ayush2004sharma/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ayush2004sharma/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayush2004sharma/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ayush2004sharma/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush2004sharma/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Ayush2004sharma/leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Ayush2004sharma/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayush2004sharma/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Ayush2004sharma/leetcode/tree/master/0658-find-k-closest-elements) |
