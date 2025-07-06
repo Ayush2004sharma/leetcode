@@ -1,25 +1,39 @@
 class FindSumPairs {
-  public FindSumPairs(int[] nums1, int[] nums2) {
-    this.nums1 = nums1;
-    this.nums2 = nums2;
-    for (final int num : nums2)
-      count2.merge(num, 1, Integer::sum);
-  }
+    private int[] nums1;
+    private int[] nums2;
+    private Map<Integer, Integer> map; // freq of nums2 elements
 
-  public void add(int index, int val) {
-    count2.merge(nums2[index], -1, Integer::sum);
-    nums2[index] += val;
-    count2.merge(nums2[index], 1, Integer::sum);
-  }
+    public FindSumPairs(int[] nums1, int[] nums2) {
+        this.nums1 = nums1;
+        this.nums2 = nums2;
+        this.map = new HashMap<>();
 
-  public int count(int tot) {
-    int ans = 0;
-    for (final int num : nums1)
-      ans += count2.getOrDefault(tot - num, 0);
-    return ans;
-  }
+        for (int num : nums2) {
+            map.put(num, map.getOrDefault(num, 0) + 1);
+        }
+    }
 
-  private int[] nums1;
-  private int[] nums2;
-  private Map<Integer, Integer> count2 = new HashMap<>();
+    public void add(int index, int val) {
+        int oldVal = nums2[index];
+        int newVal = oldVal + val;
+
+        // Update map frequencies
+        map.put(oldVal, map.get(oldVal) - 1);
+        if (map.get(oldVal) == 0) map.remove(oldVal);
+
+        map.put(newVal, map.getOrDefault(newVal, 0) + 1);
+
+        nums2[index] = newVal;
+    }
+
+    public int count(int tot) {
+        int res = 0;
+
+        for (int n1 : nums1) {
+            int target = tot - n1;
+            res += map.getOrDefault(target, 0);
+        }
+
+        return res;
+    }
 }
