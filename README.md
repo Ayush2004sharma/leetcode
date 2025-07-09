@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Ayush2004sharma/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ayush2004sharma/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Ayush2004sharma/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ayush2004sharma/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Ayush2004sharma/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ayush2004sharma/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Ayush2004sharma/leetcode/tree/master/0768-partition-labels) |
 | [1160-letter-tile-possibilities](https://github.com/Ayush2004sharma/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Ayush2004sharma/leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ayush2004sharma/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ayush2004sharma/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Ayush2004sharma/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ayush2004sharma/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
