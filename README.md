@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Ayush2004sharma/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ayush2004sharma/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayush2004sharma/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ayush2004sharma/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Ayush2004sharma/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ayush2004sharma/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ayush2004sharma/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Ayush2004sharma/leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ayush2004sharma/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Ayush2004sharma/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ayush2004sharma/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ayush2004sharma/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ayush2004sharma/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ayush2004sharma/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
