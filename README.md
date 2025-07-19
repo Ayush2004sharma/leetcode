@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayush2004sharma/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Ayush2004sharma/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ayush2004sharma/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ayush2004sharma/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ayush2004sharma/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ayush2004sharma/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Ayush2004sharma/leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Ayush2004sharma/leetcode/tree/master/0768-partition-labels) |
 | [1160-letter-tile-possibilities](https://github.com/Ayush2004sharma/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Ayush2004sharma/leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ayush2004sharma/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ayush2004sharma/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ayush2004sharma/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Ayush2004sharma/leetcode/tree/master/2107-find-unique-binary-string) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayush2004sharma/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ayush2004sharma/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ayush2004sharma/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ayush2004sharma/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ayush2004sharma/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Ayush2004sharma/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Ayush2004sharma/leetcode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Ayush2004sharma/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Ayush2004sharma/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ayush2004sharma/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Memoization
 |  |
 | ------- |
