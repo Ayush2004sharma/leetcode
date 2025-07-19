@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Ayush2004sharma/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ayush2004sharma/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Ayush2004sharma/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ayush2004sharma/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ayush2004sharma/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Ayush2004sharma/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ayush2004sharma/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Ayush2004sharma/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ayush2004sharma/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ayush2004sharma/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ayush2004sharma/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Ayush2004sharma/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
