@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Ayush2004sharma/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/Ayush2004sharma/leetcode/tree/master/0344-reverse-string) |
 | [0768-partition-labels](https://github.com/Ayush2004sharma/leetcode/tree/master/0768-partition-labels) |
+| [1078-remove-outermost-parentheses](https://github.com/Ayush2004sharma/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/Ayush2004sharma/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Ayush2004sharma/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ayush2004sharma/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ayush2004sharma/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Ayush2004sharma/leetcode/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayush2004sharma/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/Ayush2004sharma/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ayush2004sharma/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Ayush2004sharma/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3447-clear-digits](https://github.com/Ayush2004sharma/leetcode/tree/master/3447-clear-digits) |
