@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ayush2004sharma/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Ayush2004sharma/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/Ayush2004sharma/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Ayush2004sharma/leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayush2004sharma/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Ayush2004sharma/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush2004sharma/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ayush2004sharma/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Ayush2004sharma/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/Ayush2004sharma/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayush2004sharma/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Ayush2004sharma/leetcode/tree/master/0724-find-pivot-index) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ayush2004sharma/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ayush2004sharma/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ayush2004sharma/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/Ayush2004sharma/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayush2004sharma/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Ayush2004sharma/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/Ayush2004sharma/leetcode/tree/master/0792-binary-search) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Ayush2004sharma/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Ayush2004sharma/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/Ayush2004sharma/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayush2004sharma/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ayush2004sharma/leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -442,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ayush2004sharma/leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Ayush2004sharma/leetcode/tree/master/0134-gas-station) |
+| [0410-split-array-largest-sum](https://github.com/Ayush2004sharma/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0768-partition-labels](https://github.com/Ayush2004sharma/leetcode/tree/master/0768-partition-labels) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ayush2004sharma/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Ayush2004sharma/leetcode/tree/master/3647-zero-array-transformation-iii) |
