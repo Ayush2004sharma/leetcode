@@ -1,18 +1,15 @@
 class Solution {
     public int splitArray(int[] nums, int k) {
-        int l = max(nums); // min possible largest sum
-        int r = sum(nums); // max possible largest sum
+        int l = max(nums);
+        int r = sum(nums);
         int minLargestSum = r;
 
         while (l <= r) {
             int mid = l + (r - l) / 2;
-
             if (canSplit(nums, k, mid)) {
-                // Try for smaller max sum
                 minLargestSum = mid;
                 r = mid - 1;
             } else {
-                // Need bigger max sum to split into ≤ k parts
                 l = mid + 1;
             }
         }
@@ -20,9 +17,8 @@ class Solution {
         return minLargestSum;
     }
 
-    // Can we split into ≤ k subarrays with max sum ≤ limit?
     public boolean canSplit(int[] nums, int k, int limit) {
-        int count = 1; // At least one subarray
+        int count = 1;
         int currSum = 0;
 
         for (int num : nums) {
