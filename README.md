@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayush2004sharma/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ayush2004sharma/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ayush2004sharma/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ayush2004sharma/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ayush2004sharma/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Ayush2004sharma/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayush2004sharma/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Ayush2004sharma/leetcode/tree/master/0724-find-pivot-index) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ayush2004sharma/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/Ayush2004sharma/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ayush2004sharma/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3639-zero-array-transformation-i](https://github.com/Ayush2004sharma/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Ayush2004sharma/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Ayush2004sharma/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ayush2004sharma/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Ayush2004sharma/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ayush2004sharma/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ayush2004sharma/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ayush2004sharma/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Ayush2004sharma/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush2004sharma/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/Ayush2004sharma/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1813-maximum-erasure-value](https://github.com/Ayush2004sharma/leetcode/tree/master/1813-maximum-erasure-value) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ayush2004sharma/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2478-longest-nice-subarray](https://github.com/Ayush2004sharma/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ayush2004sharma/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3483-alternating-groups-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/3483-alternating-groups-ii) |
