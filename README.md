@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ayush2004sharma/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ayush2004sharma/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ayush2004sharma/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/Ayush2004sharma/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2551-apply-operations-to-an-array](https://github.com/Ayush2004sharma/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ayush2004sharma/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ayush2004sharma/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Ayush2004sharma/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/Ayush2004sharma/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ayush2004sharma/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/Ayush2004sharma/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3639-zero-array-transformation-i](https://github.com/Ayush2004sharma/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Ayush2004sharma/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Ayush2004sharma/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/Ayush2004sharma/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ayush2004sharma/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ayush2004sharma/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/Ayush2004sharma/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ayush2004sharma/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ayush2004sharma/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Divide and Conquer
