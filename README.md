@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Ayush2004sharma/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ayush2004sharma/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Ayush2004sharma/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Ayush2004sharma/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/Ayush2004sharma/leetcode/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Ayush2004sharma/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3396-valid-word](https://github.com/Ayush2004sharma/leetcode/tree/master/3396-valid-word) |
