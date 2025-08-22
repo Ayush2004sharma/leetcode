@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ayush2004sharma/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/Ayush2004sharma/leetcode/tree/master/3430-count-days-without-meetings) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Ayush2004sharma/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3483-alternating-groups-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Ayush2004sharma/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3639-zero-array-transformation-i](https://github.com/Ayush2004sharma/leetcode/tree/master/3639-zero-array-transformation-i) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayush2004sharma/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ayush2004sharma/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ayush2004sharma/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Ayush2004sharma/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Ayush2004sharma/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Data Stream
 |  |
