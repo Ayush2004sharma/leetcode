@@ -1,6 +1,5 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        Arrays.sort(nums);
         int ans=nums[0];
         int count=0;
         for(int n:nums){
@@ -10,7 +9,8 @@ class Solution {
             else{
                 count--;
             }
-            if(count<=0)ans=n;
+            if(count<0){ans=n;
+            count=0;}
         }
         return ans ;
     }
