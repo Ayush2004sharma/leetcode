@@ -13,12 +13,11 @@ class Solution {
                 count=1;
                 a=n;
             }      
-            if(count>=m){
+            if(count>=m&&!l.contains(n)){
                 l.add(n);
             }
         }
-        HashSet<Integer> set = new HashSet<>(l);
-      l = new ArrayList<>(set);
+   
         
         return l;
     }
