@@ -1,17 +1,22 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        HashMap<Integer, Integer> hm = new HashMap<>();
-        
-        for (int i = 0; i < nums.length; i++) {
-            int complement = target - nums[i];
-
-            if (hm.containsKey(complement)) {
-                return new int[] {hm.get(complement), i};
-            }
-
-            hm.put(nums[i], i);
+        List<Integer> l = new ArrayList<>();
+        for (int n : nums) {
+            l.add(n);
         }
 
-        return new int[] {}; // Just in case no solution exists
+        int[] ans = new int[2];
+        for (int i = 0; i < nums.length; i++) {
+            int k = target - nums[i];
+
+            // Check in original list (not after removal)
+            int j = l.lastIndexOf(k);
+            if (j != -1 && j != i) {
+                ans[0] = i;
+                ans[1] = j;
+                break;
+            }
+        }
+        return ans;
     }
 }
