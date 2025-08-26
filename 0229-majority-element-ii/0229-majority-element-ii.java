@@ -1,16 +1,25 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
+        Arrays.sort(nums);
         List<Integer>l = new ArrayList<>();
-        HashMap<Integer,Integer>hm = new HashMap<>();
-        for(int n :nums){
-          hm.put(n, hm.getOrDefault(n, 0) + 1);
-        }
-        int k = nums.length/3;
-         for (int key : hm.keySet()) {
-            if(hm.get(key)>k){
-                l.add(key);
+        int m =1+nums.length/3;
+        int count=0;
+        int a=nums[0];
+        for(int n:nums){
+            if(a==n){
+                count++;
+            }      
+            else if(a!=n){
+                count=1;
+                a=n;
+            }      
+            if(count>=m){
+                l.add(n);
             }
-         }
+        }
+        
+      
+        
         return l;
     }
 }
