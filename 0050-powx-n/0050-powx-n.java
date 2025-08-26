@@ -1,17 +1,21 @@
 class Solution {
     public double myPow(double x, int n) {
-        long N = n; // convert to long to handle -2^31 safely
-        if (N < 0) {
-            x = 1 / x;
-            N = -N;
-        }
-        return pow(x, N);
-    }
+        if (n == 0) return 1.0;
 
-    private double pow(double x, long n) {
-        if (n == 0) return 1;
-        double half = pow(x, n / 2);
-        if (n % 2 == 0) return half * half;
-        else return half * half * x;
+        long exp = n; // use long to handle Integer.MIN_VALUE case
+        if (exp < 0) {
+            x = 1 / x;
+            exp = -exp;
+        }
+
+        double result = 1.0;
+        while (exp > 0) {
+            if ((exp & 1) == 1) { // if odd
+                result *= x;
+            }
+            x *= x;  // square base
+            exp >>= 1; // divide exponent by 2
+        }
+        return result;
     }
 }
