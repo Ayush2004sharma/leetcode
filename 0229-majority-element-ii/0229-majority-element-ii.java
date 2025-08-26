@@ -17,8 +17,8 @@ class Solution {
                 l.add(n);
             }
         }
-        
-      
+        HashSet<Integer> set = new HashSet<>(l);
+      l = new ArrayList<>(set);
         
         return l;
     }
