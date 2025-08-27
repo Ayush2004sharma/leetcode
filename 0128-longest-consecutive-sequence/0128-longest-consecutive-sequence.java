@@ -2,28 +2,28 @@ class Solution {
     public int longestConsecutive(int[] nums) {
         if (nums.length == 0) return 0;
 
-        TreeSet<Integer> treeSet = new TreeSet<>();
-        for (int n : nums) {
-            treeSet.add(n);
+        HashSet<Integer> set = new HashSet<>();
+        for (int num : nums) {
+            set.add(num);
         }
 
-        int count = 1;
-        int temp = 1;
+        int longest = 0;
 
-        Iterator<Integer> it = treeSet.iterator();
-        int prev = it.next();  // take first element
+        for (int num : set) {
+            // start only if it's the beginning of a sequence
+            if (!set.contains(num - 1)) {
+                int currentNum = num;
+                int streak = 1;
 
-        while (it.hasNext()) {
-            int n = it.next();
-            if (prev + 1 == n) {
-                temp++;
-            } else {
-                temp = 1;
+                while (set.contains(currentNum + 1)) {
+                    currentNum++;
+                    streak++;
+                }
+
+                longest = Math.max(longest, streak);
             }
-            count = Math.max(count, temp);
-            prev = n;
         }
 
-        return count;
+        return longest;
     }
 }
