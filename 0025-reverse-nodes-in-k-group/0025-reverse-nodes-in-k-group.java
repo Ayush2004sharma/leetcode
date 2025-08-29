@@ -2,34 +2,34 @@ class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
         if (head == null || k == 1) return head;
 
-        ListNode temp = head;
-        int count = 0;
-        
-        // Count k nodes to check if we can reverse
-        while (count < k && temp != null) {
-            temp = temp.next;
-            count++;
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+
+        ListNode prevGroupTail = dummy;
+        ListNode curr = head;
+
+        int length = 0;
+        while (curr != null) {
+            length++;
+            curr = curr.next;
         }
 
-        if (count == k) {
-            ListNode prev = null, curr = head, next = null;
-            int i = 0;
-            
-            // Reverse k nodes
-            while (i < k && curr != null) {
-                next = curr.next;
+        curr = head;
+        while (length >= k) {
+            ListNode prev = null;
+            ListNode tail = curr;
+            for (int i = 0; i < k; i++) {
+                ListNode nextNode = curr.next;
                 curr.next = prev;
                 prev = curr;
-                curr = next;
-                i++;
+                curr = nextNode;
             }
-            
-            // Recursively call for the next part
-            head.next = reverseKGroup(curr, k);
-            
-            return prev; // New head after reversing k-group
+            prevGroupTail.next = prev;
+            tail.next = curr;
+            prevGroupTail = tail;
+            length -= k;
         }
 
-        return head; // If fewer than k nodes remain, return as is
+        return dummy.next;
     }
 }
