@@ -9,7 +9,7 @@ class Solution {
                 int third = - (nums[i] + nums[j]);
                 if (seen.contains(third)) {
                     List<Integer> triplet = Arrays.asList(nums[i], nums[j], third);
-                    Collections.sort(triplet); // so [a, b, c] and [b, a, c] are same
+                    Collections.sort(triplet); 
                     res.add(triplet);
                 }
                 seen.add(nums[j]);
