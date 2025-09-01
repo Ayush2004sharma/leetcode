@@ -1,42 +1,32 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
-    public int size(ListNode head) {
-        int c = 0;
-        ListNode t = head;
-        while (t != null) {
-            c++;
-            t = t.next;
-        }
-        return c;
-    }
     public ListNode rotateRight(ListNode head, int k) {
-        if (head == null || head.next == null)
+        if (head == null || head.next == null || k == 0) {
             return head;
-        int n =k%size(head);
-        if(n==0)return head;
-        ListNode slow = head;
-        ListNode start = slow;
-        ListNode fast = head;
-        for (int i = 0; i < n; i++) {
-            fast = fast.next;
         }
-        while (fast.next != null) {
-            slow = slow.next;
-            fast = fast.next;
-        }
-        ListNode end = slow.next;
-        slow.next = null;
-        fast.next = start;
 
-        return end;
+      
+        int count = 1; // Start from 1 because we count the head
+        ListNode temp = head;
+        while (temp.next != null) {
+            count++;
+            temp = temp.next;
+        }
+
+        // Step 2: Compute the actual rotation needed
+        k = k % count;
+        if (k == 0) return head; // No rotation needed
+
+        // Step 3: Find the new tail (count - k - 1) and new head (count - k)
+        ListNode newTail = head;
+        for (int i = 0; i < count - k - 1; i++) {
+            newTail = newTail.next;
+        }
+
+        // Step 4: Update pointers
+        ListNode newHead = newTail.next;
+        newTail.next = null;
+        temp.next = head; // Connect the last node to the old head
+
+        return newHead;
     }
 }
