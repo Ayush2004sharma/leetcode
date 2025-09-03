@@ -14,27 +14,23 @@ class Solution {
         Arrays.fill(vis, -1);
         for(  int i =0;i<n;i++){
                 if(vis[i]==-1){
-                    if(!bfs(i,n,adj, vis))return false;
+                    if(!dfs(i,0,adj, vis))return false;
             }
         }
         return true;
     }
 
-    public boolean bfs( int start ,int V, ArrayList<ArrayList<Integer>>adj, int vis[]){
-        Queue<Integer>q= new LinkedList<>();
-        q.add(start);
-        vis[start]=0;
-        while(!q.isEmpty()){
-            int node = q.peek();
-            q.remove();
-            for( int it:adj.get(node)){
+    public boolean dfs( int start ,int color, ArrayList<ArrayList<Integer>>adj, int vis[]){
+        
+        vis[start]=color;
+      
+            for( int it:adj.get(start)){
                 if( vis[it]==-1){
-                    vis[it]=1-vis[node];
-                    q.add(it);
+                    if (!dfs(it, 1 - color, adj, vis)) return false;
                 }
-                else if ( vis[it]==vis[node]){
+                else if ( vis[it]==vis[start]){
                     return false;
-                }
+                
             }
         }
         return true;
