@@ -701,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Ayush2004sharma/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Ayush2004sharma/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayush2004sharma/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0801-is-graph-bipartite](https://github.com/Ayush2004sharma/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ayush2004sharma/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ayush2004sharma/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ayush2004sharma/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ayush2004sharma/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ayush2004sharma/leetcode/tree/master/0207-course-schedule) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayush2004sharma/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0801-is-graph-bipartite](https://github.com/Ayush2004sharma/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ayush2004sharma/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ayush2004sharma/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ayush2004sharma/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -782,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ayush2004sharma/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Ayush2004sharma/leetcode/tree/master/0200-number-of-islands) |
+| [0801-is-graph-bipartite](https://github.com/Ayush2004sharma/leetcode/tree/master/0801-is-graph-bipartite) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ayush2004sharma/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Ayush2004sharma/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ayush2004sharma/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -789,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ayush2004sharma/leetcode/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/Ayush2004sharma/leetcode/tree/master/0801-is-graph-bipartite) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ayush2004sharma/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ayush2004sharma/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/Ayush2004sharma/leetcode/tree/master/2793-count-the-number-of-complete-components) |
