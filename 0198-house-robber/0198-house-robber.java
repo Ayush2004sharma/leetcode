@@ -7,6 +7,6 @@ class Solution {
             prev2=prev1;
             prev1= curr;
         }
-        return Math.max(prev2,prev1);
+        return prev1;
     }
 }
