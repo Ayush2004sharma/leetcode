@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Ayush2004sharma/leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ayush2004sharma/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Ayush2004sharma/leetcode/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/Ayush2004sharma/leetcode/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ayush2004sharma/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Ayush2004sharma/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Ayush2004sharma/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Ayush2004sharma/leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Ayush2004sharma/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0679-24-game](https://github.com/Ayush2004sharma/leetcode/tree/master/0679-24-game) |
+| [0830-largest-triangle-area](https://github.com/Ayush2004sharma/leetcode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Ayush2004sharma/leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Ayush2004sharma/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Ayush2004sharma/leetcode/tree/master/1013-fibonacci-number) |
@@ -894,4 +896,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Ayush2004sharma/leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Ayush2004sharma/leetcode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
