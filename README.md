@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ayush2004sharma/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ayush2004sharma/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Ayush2004sharma/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ayush2004sharma/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayush2004sharma/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayush2004sharma/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0131-palindrome-partitioning](https://github.com/Ayush2004sharma/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayush2004sharma/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Ayush2004sharma/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ayush2004sharma/leetcode/tree/master/0344-reverse-string) |
 | [0768-partition-labels](https://github.com/Ayush2004sharma/leetcode/tree/master/0768-partition-labels) |
 | [1006-vowel-spellchecker](https://github.com/Ayush2004sharma/leetcode/tree/master/1006-vowel-spellchecker) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush2004sharma/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ayush2004sharma/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Ayush2004sharma/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ayush2004sharma/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayush2004sharma/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayush2004sharma/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
